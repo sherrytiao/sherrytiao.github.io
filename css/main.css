@@ -37,6 +37,10 @@ section {
 	text-align: center;
 }
 
+ul {
+	list-style: disc;
+}
+
 .center {
 	text-align: center;
 }
