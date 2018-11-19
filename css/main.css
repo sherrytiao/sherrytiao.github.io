@@ -192,6 +192,15 @@ ul {
 	font-size: 1.2em;
 }
 
+.section-projects-tile-overlay ul {
+	list-style: disc;
+	text-align: justify;
+}
+
+.section-projects-tile-overlay li {
+	margin-bottom: 1em;
+}
+
 .mobile-tile-separator {
 	border-top: 1px solid #222;
 	display: none;
