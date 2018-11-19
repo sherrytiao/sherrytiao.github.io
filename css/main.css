@@ -195,6 +195,7 @@ ul {
 .section-projects-tile-overlay ul {
 	list-style: disc;
 	text-align: justify;
+	margin-left: 1em;
 }
 
 .section-projects-tile-overlay li {
